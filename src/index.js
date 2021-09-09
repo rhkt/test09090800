@@ -7,6 +7,7 @@ class Game extends React.Component {
 	render() {
 		return (
 			<div>
+				<p>ｄｅｖルド</p>
 				<h1>ハローワールド</h1>
 				<h2>ハローワールド</h2>
 				<Button size="small" variant="contained" color="primary">
