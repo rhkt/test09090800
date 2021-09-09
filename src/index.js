@@ -8,7 +8,8 @@ class Game extends React.Component {
 		return (
 			<div>
 				<h1>ハローワールド</h1>
-				<h2>ハローワールド</h2>
+				<h2>ハローワールドディべろっぷの修正</h2>
+				<h3>developハローワールドディべろっぷの修正</h3>
 				<Button size="small" variant="contained" color="primary">
 					全てを見る
 				</Button>
