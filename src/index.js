@@ -7,6 +7,7 @@ class Game extends React.Component {
 	render() {
 		return (
 			<div>
+				<p>ｄｅｖルド</p>
 				<h1>ハローワールド</h1>
 				<h2>ハローワールドディべろっぷの修正</h2>
 				<h3>developハローワールドディべろっぷの修正</h3>
